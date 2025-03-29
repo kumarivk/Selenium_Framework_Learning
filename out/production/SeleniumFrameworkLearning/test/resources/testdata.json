@@ -1,0 +1,16 @@
+{
+  "loginData": {
+    "validUser": {
+      "username": "testuser@example.com",
+      "password": "Test@123"
+    },
+    "invalidUser": {
+      "username": "invalid@example.com",
+      "password": "wrong"
+    }
+  },
+  "urls": {
+    "baseUrl": "https://example.com",
+    "loginPage": "/login"
+  }
+}
